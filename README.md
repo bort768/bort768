@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bort768
-- 👀 I’m interested in Xamarin, C#
-- 🌱 I’m currently learning Xaml, xamarin
+- 👀 I’m interested in Xamarin, .MAUI and C#
+- 🌱 I’m currently learning Xaml, xamarin, .MAUI, C#
 - 📫 How to reach me https://www.linkedin.com/in/oleg-krzysztoporski-922436199/
 - git push me-off-a-cliff
 <!---
